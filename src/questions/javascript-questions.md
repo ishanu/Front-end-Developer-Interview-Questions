@@ -45,12 +45,12 @@ permalink: /questions/javascript-questions/index.html
 * What is the definition of a higher-order function?
 * Can you give an example for destructuring an object or an array?
 * Can you give an example of generating a string with ES6 Template Literals?
-* Can you give an example of a curry function and why this syntax offers an advantage?
-* What are the benefits of using `spread syntax` and how is it different from `rest syntax`?
-* How can you share code between files?
+* Can you give an example of a curry function and why this syntax offers an advantage? https://www.youtube.com/watch?v=iZLP4qOwY8I 
+* What are the benefits of using `spread syntax` and how is it different from `rest syntax`? https://javascript.info/rest-parameters-spread
+* How can you share code between files? 
 * Why you might want to create static class members?
 * What is the difference between `while` and `do-while` loops in JavaScript?
-* What is a promise? Where and how would you use promise?
+* What is a promise? Where and how would you use promise? https://www.youtube.com/watch?v=GSI7iyK_ju4
 
 ## Coding questions
 * Make this work:
