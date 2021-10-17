@@ -20,7 +20,7 @@ permalink: /questions/javascript-questions/index.html
 * Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two? https://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply
 * Explain `Function.prototype.bind`. https://stackoverflow.com/questions/2236747/what-is-the-use-of-the-javascript-bind-method
 * What's the difference between feature detection, feature inference, and using the UA string?
-* Explain "hoisting".
+* Explain "hoisting". https://www.w3schools.com/js/js_hoisting.asp
 * Describe event bubbling.
 * Describe event capturing.
 * What's the difference between an "attribute" and a "property"?
