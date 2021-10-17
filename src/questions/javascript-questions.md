@@ -28,7 +28,7 @@ permalink: /questions/javascript-questions/index.html
 * What is the difference between `==` and `===`?
 * Explain the same-origin policy with regards to JavaScript.
 * Why is it called a Ternary operator, what does the word "Ternary" indicate?
-* What is strict mode? What are some of the advantages/disadvantages of using it?
+* What is strict mode? What are some of the advantages/disadvantages of using it? https://www.youtube.com/watch?v=uqUYNqZx0qY
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * What tools and techniques do you use debugging JavaScript code?
 * Explain the difference between mutable and immutable objects.
