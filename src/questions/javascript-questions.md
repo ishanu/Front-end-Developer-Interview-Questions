@@ -32,7 +32,7 @@ permalink: /questions/javascript-questions/index.html
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * What tools and techniques do you use debugging JavaScript code?
 * Explain the difference between mutable and immutable objects.
-  * What is an example of an immutable object in JavaScript?
+  * What is an example of an immutable object in JavaScript? https://www.youtube.com/watch?v=pslr6SWXFjQ
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
 * Explain the difference between synchronous and asynchronous functions.
