@@ -33,10 +33,10 @@ permalink: /questions/javascript-questions/index.html
 * What tools and techniques do you use debugging JavaScript code?
 * Explain the difference between mutable and immutable objects.
   * What is an example of an immutable object in JavaScript? https://www.youtube.com/watch?v=pslr6SWXFjQ
-  * What are the pros and cons of immutability?
-  * How can you achieve immutability in your own code?
-* Explain the difference between synchronous and asynchronous functions.
-* What is event loop?
+  * What are the pros and cons of immutability? https://stackoverflow.com/questions/1863515/pros-cons-of-immutability-vs-mutability
+  * How can you achieve immutability in your own code? https://stackoverflow.com/questions/46853278/create-immutable-object-in-javascript
+* Explain the difference between synchronous and asynchronous functions. 
+* What is event loop? https://www.youtube.com/watch?v=EI7sN1dDwcY
   * What is the difference between call stack and task queue?
 * What are the differences between variables created using `let`, `var` or `const`?
 * What are the differences between ES6 class and ES5 function constructors?
